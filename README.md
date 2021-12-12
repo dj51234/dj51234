@@ -4,7 +4,7 @@
 #### Find me around the web:
 - <a href="https://www.linkedin.com/in/derrick-johnson-ab1b887b/">LinkedIn</a>
 - <a href="https://codepen.io/dj51234/pens/public/">Codepen</a>
-- <a href="https://dj51234.github.io/portfolio-final/">Portfolio</a>
+- <a href="https://djdeveloper.netlify.app/">Portfolio</a>
 
 ---
 
