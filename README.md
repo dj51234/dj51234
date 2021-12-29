@@ -1,4 +1,4 @@
-### Hello, I'm Derrick! I'm a Front End Developer
+### Hello, I'm Derrick!
 ---
 
 #### Find me around the web:
