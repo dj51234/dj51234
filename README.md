@@ -38,6 +38,8 @@
 
   ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter&logoColor=42bff5)
   ![Gatsby](https://img.shields.io/badge/-Gatsby-333333?style=flat&logo=gatsby)
+  ![D3.js](https://img.shields.io/badge/-D3.js-333333?style=flat&logo=d3.js)
+  ![solidity](https://img.shields.io/badge/-Solidity-333333?style=flat&logo=solidity)
  
 </br>
 
