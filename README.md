@@ -46,7 +46,9 @@
 
 ## Github Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dj51234&layout=compact&count_private=true)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dj51234&theme=vue)
+
+
 
 
 
