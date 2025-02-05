@@ -23,7 +23,7 @@
   ![SASS](https://img.shields.io/badge/-SASS-333333?style=flat&logo=sass)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-  ![C#](https://img.shields.io/badge/-C%23-333333?style=flat&logo=csharp&logoColor=white)
+  ![C#](https://img.shields.io/badge/-C-333333?style=flat&logo=csharp&logoColor=white)
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   
   
