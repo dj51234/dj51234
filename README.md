@@ -24,7 +24,6 @@
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![C#](https://img.shields.io/badge/-C%23-333333?style=flat&logo=dotnet)
-
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   
   
