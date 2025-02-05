@@ -40,7 +40,7 @@
 
 ## Github Stats
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dj51234&theme=vue)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dj51234&theme=default) 
 
 
 
