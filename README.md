@@ -1,6 +1,7 @@
 # Hello 👋 I'm Derrick!
 
-<a href="https://www.linkedin.com/in/derrick-johnson-dev"><img src="https://img.shields.io/badge/-Derrick%20Johnson-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+
+<a href="https://www.linkedin.com/in/derrick-johnson-dev"><img src="https://img.shields.io/badge/LinkedIn-0A66C2"/></a>
 <a href="https://codepen.io/dj51234/pens/showcase"><img src="https://img.shields.io/badge/-CodePen-333333?style=flat-square&logo=codepen"/></a>
 <a href="https://djdeveloper.netlify.app"><img src="https://img.shields.io/static/v1?message=Portfolio&logo=pioneerDJ&labelColor=5c5c5c&color=1182c3&logoColor=white&label=%20"/></a>
 [![LeetCode user dj51234](https://img.shields.io/badge/dynamic/json?style=flat-square&labelColor=black&color=%23ffa116&label=LeetCode&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fdj51234&logo=leetcode&logoColor=yellow)](https://leetcode.com/dj51234/)
