@@ -2,10 +2,8 @@
 
 
 <a href="https://codepen.io/dj51234/pens/showcase"><img src="https://img.shields.io/badge/-CodePen-333333?style=flat-square&logo=codepen"/></a>
-<a href="https://djdeveloper.netlify.app"><img src="https://img.shields.io/static/v1?message=Portfolio&logo=pioneerDJ&labelColor=5c5c5c&color=1182c3&logoColor=white&label=%20"/></a>
 [![LeetCode user dj51234](https://img.shields.io/badge/dynamic/json?style=flat-square&labelColor=black&color=%23ffa116&label=LeetCode&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fdj51234&logo=leetcode&logoColor=yellow)](https://leetcode.com/dj51234/)
 <a href="https://www.codewars.com/users/dj51234"><img src="https://www.codewars.com/users/dj51234/badges/micro"></a>
-<a href="https://www.linkedin.com/in/derrick-johnson-dev"><img src="https://img.shields.io/badge/LinkedIn-0A66C2"/></a> 
 
 <img src="https://komarev.com/ghpvc/?username=dj51234&label=Derrick's%20Profile%20Views&color=135429&style=flat"/>
 
