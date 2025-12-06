@@ -41,8 +41,6 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dj51234&theme=default) 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dj51234)](https://github.com/dj51234/github-readme-stats)
-
 
 
 
