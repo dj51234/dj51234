@@ -40,9 +40,3 @@
 ## Github Stats
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dj51234&theme=default) 
-
-
-
-
-
-
